@@ -1,0 +1,16 @@
+com/example/jetnote/data/database/AppDatabase_Impl.java
+ com.example.jetnote.data.database.AppDatabase_Impl
+ com.example.jetnote.data.database.AppDatabase_Impl$1
+com/example/jetnote/data/database/dao/ColorDao_Impl.java
+ com.example.jetnote.data.database.dao.ColorDao_Impl
+ com.example.jetnote.data.database.dao.ColorDao_Impl$1
+ com.example.jetnote.data.database.dao.ColorDao_Impl$2
+ com.example.jetnote.data.database.dao.ColorDao_Impl$3
+com/example/jetnote/BuildConfig.java
+ com.example.jetnote.BuildConfig
+com/example/jetnote/data/database/dao/NoteDao_Impl.java
+ com.example.jetnote.data.database.dao.NoteDao_Impl
+ com.example.jetnote.data.database.dao.NoteDao_Impl$1
+ com.example.jetnote.data.database.dao.NoteDao_Impl$2
+ com.example.jetnote.data.database.dao.NoteDao_Impl$3
+ com.example.jetnote.data.database.dao.NoteDao_Impl$4

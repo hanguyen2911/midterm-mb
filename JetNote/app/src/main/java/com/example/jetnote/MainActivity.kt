@@ -37,7 +37,6 @@ class MainActivity : AppCompatActivity() {
 
                         NoteScreen(viewModel = viewModel)
 
-
             }
 
         }
