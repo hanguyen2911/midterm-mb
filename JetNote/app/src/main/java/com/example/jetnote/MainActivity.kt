@@ -12,7 +12,7 @@ import com.example.jetnote.routing.Screen
 import com.example.jetnote.theme.JetNotesTheme
 import com.example.jetnote.ui.components.AppDrawer
 import com.example.jetnote.ui.components.Note
-import com.example.jetnote.ui.components.NoteScreen
+import com.example.jetnote.ui.screens.NoteScreen
 import com.example.jetnote.viewmodel.MainViewModel
 import com.example.jetnote.viewmodel.MainViewModelFactory
 import kotlinx.coroutines.launch
